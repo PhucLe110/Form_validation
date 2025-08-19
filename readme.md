@@ -1,8 +1,7 @@
 # 🚀 Form Validator
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)  
-![Language](https://img.shields.io/badge/language-JavaScript-yellow.svg)  
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Language](https://img.shields.io/badge/language-JavaScript-yellow.svg)
 
 ---
 
