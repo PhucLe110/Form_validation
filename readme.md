@@ -3,37 +3,27 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg)  
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow.svg)
 
----
 
-## 📌 **Mô tả**
 
-Dự án nhỏ dùng để **thực hành tạo Form Validator** nhằm luyện tập kiến thức **JavaScript**.  
-Ứng dụng giúp kiểm tra dữ liệu nhập từ người dùng trong các form (ví dụ: _Email, Tên, Mật khẩu, ..._) trước khi gửi đi.
+## 📌 **Description**
 
----
+A small project to **practice building a Form Validator** as an exercise in JavaScript.
+The application validates user input in forms (e.g., Email, Name, Password, ...) before submission.
 
-## 🎯 **Mục tiêu**
 
-- ✅ Hiểu cách thao tác với **DOM** bằng JavaScript.
-- ✅ Áp dụng kiến thức về **validation** (ràng buộc dữ liệu).
-- ✅ Rèn luyện kỹ năng viết **JavaScript thuần**.
+## 🎯 **Goals**
 
----
+- ✅ Understand how to manipulate the **DOM** with JavaScript.
+- ✅ Apply knowledge of **validation** (data constraints).
+- ✅ Improve skills in writing **vanilla JavaScript**.
 
-## 🛠️ **Công nghệ sử dụng**
+
+
+## 🛠️ **Technologies Used**
 
 - 🧩 **HTML**
 - 🎨 **CSS**
 - ⚡ **JavaScript**
 
----
 
-## 📂 **Cấu trúc thư mục**
 
-```bash
-📦 Form-Validator
- ┣ 📜 index.html      # Giao diện form
- ┣ 📜 main.css       # CSS cho form
- ┣ 📜 validator.js    # File chứa hàm Validator
- ┗ 📜 README.md       # Tài liệu dự án
-```
